@@ -1,0 +1,4 @@
+mertcan yamak
+sosyal bilimler
+return message
+//hash map
