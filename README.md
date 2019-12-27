@@ -12,7 +12,7 @@ Then while reading the second file, your program will check if any of the hash k
 
 #### Input Files:
 ``` 
-Algproje.java
+AlgProje.java
 Test.txt
 Test2.txt
 ``` 
